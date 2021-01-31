@@ -1,2 +1,3 @@
-# zkuralt.github.io
-My personal website
+# Mostly random
+
+My personal website to be!
